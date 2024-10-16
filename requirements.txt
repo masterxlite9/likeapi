@@ -1,0 +1,9 @@
+datetime==5.5
+protobuf_decoder==0.4.0
+pycryptodome==3.20.0
+requests==2.32.3
+telegram==0.0.1
+Flask
+requests
+pycryptodome  # For Crypto.Cipher and Crypto.Util.Padding
+protobuf-decoder  # For protobuf_decoder
